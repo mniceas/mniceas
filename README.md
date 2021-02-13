@@ -25,15 +25,14 @@ Welcome to my profile, please don't look at the mess.
 
 - 🤔 &nbsp; I usually like games where I'm not good at all, I'm starting to think I like suffering.
 
-<!--
-### 🛠 Tech Stack
-
-- 💻 &nbsp; Docker | Ansible | Terraform | Kubernetes | Packer
-- 🛢 &nbsp; Postgres | TimescaleDB
-- 🔧 &nbsp; Git | Markdown
--->
 
 [![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=mniceas&show_icons=true)](https://github.com/mniceas)
+
+### 🛠 My Tech Stack
+
+- 💻 &nbsp; ShellScript | GitLab | Linux | SAP BW
+- 🛢 &nbsp; MySQL | MSSQL
+- 🔧 &nbsp; Git | Markdown
 
 [![Matheuss most used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mniceas)](https://github.com/mniceas)
 
