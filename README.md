@@ -15,14 +15,17 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Matheus Nicéas 👋
 
+Welcome to my profile, please don't look at the mess.
+
+### 👨🏻‍💻 Little Things About Me
+
+🌱 &nbsp; I'm Bachelor in Information Systems. With experience in the Linux environment and its various distributions. I also have experience with systems using SQL, Shell script, and SAP BW. Aspiring the be a DevOps Engineer.
+
+💼 &nbsp; Working as a Application Development Associate at Accenture.
+
+🤔 &nbsp; I usually like games where I'm not good at all, I'm starting to think I like suffering.
+
 <!--
-
-### 👨🏻‍💻 About Me
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Working as a DevOps Engineer at DNSFilter.
-- 🌱 &nbsp; Learning more about Cloud Architecture, IaC and Sofware Development.
-
 ### 🛠 Tech Stack
 
 - 💻 &nbsp; Docker | Ansible | Terraform | Kubernetes | Packer
