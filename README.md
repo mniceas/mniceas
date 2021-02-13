@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 
 Welcome to my profile, please don't look at the mess.
 
-### 👨🏻‍💻 Little Things About Me
+### Little Things About Me
 
-🌱 &nbsp; I'm Bachelor in Information Systems. With experience in the Linux environment and its various distributions. I also have experience with systems using SQL, Shell script, and SAP BW. Aspiring the be a DevOps Engineer.
+- 🌱 &nbsp; I'm Bachelor in Information Systems. With experience in the Linux environment and its various distributions. I also have experience with systems using SQL, Shell script, and SAP BW. Aspiring the be a DevOps Engineer.
 
-💼 &nbsp; Working as a Application Development Associate at Accenture.
+- 💼 &nbsp; Working as a Application Development Associate at Accenture.
 
-🤔 &nbsp; I usually like games where I'm not good at all, I'm starting to think I like suffering.
+- 🤔 &nbsp; I usually like games where I'm not good at all, I'm starting to think I like suffering.
 
 <!--
 ### 🛠 Tech Stack
