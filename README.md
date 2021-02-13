@@ -28,7 +28,7 @@ Welcome to my profile, please don't look at the mess.
 
 [![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=mniceas&show_icons=true)](https://github.com/mniceas)
 
-### 🛠 My Tech Stack
+### My Tech Stack
 
 - 💻 &nbsp; ShellScript | GitLab | Linux | SAP BW
 - 🛢 &nbsp; MySQL | MSSQL
