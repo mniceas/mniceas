@@ -37,6 +37,6 @@ Here are some ideas to get you started:
 ### 🤝🏻 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/matheusniceas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Matheus Nicéas-blue?style=flat-square&logo=linkedin" target="_blank"></a>
-<a href="mailto:matheusniceas@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-matheusniceas@hotmail.com-blue?style=flat-square&logo=gmail" target="_blank"></a>
+<a href="https://www.linkedin.com/in/matheusniceas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Matheus Nicéas-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:matheusniceas@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-matheusniceas@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
