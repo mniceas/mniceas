@@ -23,7 +23,7 @@ Welcome to my profile, please don't look at the mess.
 
 - 💼 &nbsp; Working as a Application Development Associate at Accenture.
 
-- 🤔 &nbsp; I usually like games where I'm not good at all, I'm starting to think I like suffering.
+- 🤔 &nbsp; I usually like games where I'm not good at all, I'm starting to think that i like suffering.
 
 
 [![Matheus GitHub Stats](https://github-readme-stats.vercel.app/api?username=mniceas&show_icons=true)](https://github.com/mniceas)
