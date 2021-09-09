@@ -21,7 +21,7 @@ Welcome to my profile, please don't look at the mess.
 
 - 🌱 &nbsp; I'm Bachelor in Information Systems. With experience in the Linux environment and its various distributions. I also have experience with systems using SQL, Shell script, and SAP BW. Aspiring the be a DevOps Engineer.
 
-- 💼 &nbsp; Working as a Application Development Associate at Accenture.
+- 💼 &nbsp; Working as a Application Development Analyst at Accenture.
 
 - 🤔 &nbsp; I usually like games where I'm not good at all, I'm starting to think that i like suffering.
 
