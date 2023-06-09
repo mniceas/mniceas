@@ -19,9 +19,9 @@ Welcome to my profile, please don't look at the mess.
 
 ### Little Things About Me
 
-- 🌱 &nbsp; I'm Bachelor in Information Systems. With experience in the Linux environment and its various distributions. I also have experience with systems using SQL, Shell script, and SAP BW. Aspiring the be a DevOps Engineer.
+- 🌱 &nbsp; I'm Bachelor in Information Systems. With experience in the Linux environment and its various distributions. I also have experience with systems using SQL, Shell script, SAP BW/HANA/BODS.
 
-- 💼 &nbsp; Working as a Application Development Analyst at Accenture.
+- 💼 &nbsp; Working as a Data Engineering Analyst at Accenture Brazil.
 
 - 🤔 &nbsp; I usually like games where I'm not good at all, I'm starting to think that i like suffering.
 
@@ -30,9 +30,9 @@ Welcome to my profile, please don't look at the mess.
 
 ### My Tech Stack
 
-- 💻 &nbsp; ShellScript | GitLab | Linux | SAP BW
-- 🛢 &nbsp; MySQL | MSSQL
-- 🔧 &nbsp; Git | Markdown
+- 💻 &nbsp; ShellScript | GitLab | Linux | SAP BW | SAP HANA | SAP BODS
+- 🛢 &nbsp; MySQL | MSSQL | HANA 
+- 🔧 &nbsp; Git | Markdown | Shellscript
 
 [![Matheuss most used Languages](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=mniceas)](https://github.com/mniceas)
 
